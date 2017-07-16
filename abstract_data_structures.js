@@ -1,7 +1,7 @@
 // 1. Describe
 /*
-Binary Search Tree Data Stucture adalah data struktur yang memiliki basis yang sama dengan algoritma sorting Binary Search.
-Sama dengan algoritma sorting Binary Search yang mengandalkan divide and conquer, dimana Binary Search sorting algorithm
+Binary Search Tree Data Stucture adalah data struktur yang memiliki basis yang sama dengan algoritma searching Binary Search.
+Sama dengan algoritma searching Binary Search yang mengandalkan divide and conquer, dimana Binary Search searching algorithm
 mengandalkan data yang berada persis di tengah kumpulan data dan melakukan evaluasi,
 dan pada Binary Search Data Structure memiliki root node yang merupakan pusat atau value tengah dari kumpulan data.
 
